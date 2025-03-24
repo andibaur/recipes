@@ -8,6 +8,6 @@
 - Pepper
 
 ## Instructions
-Mix all together
-Taste a littlebit
-Eat it!
+1. Mix all together
+2. Taste a littlebit
+3. Eat it!
